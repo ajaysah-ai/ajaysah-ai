@@ -187,7 +187,6 @@ Full-stack CRM module with 2-stage AI approval workflow for regulated industries
 </p>
 
 **📧 Email:** ajay.sah.aieng@gmail.com  
-**📱 Phone:** +91 8969594358  
 **🌐 Portfolio:** https://ajaysah-ai.github.io
 
 ---
